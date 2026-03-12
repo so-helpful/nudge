@@ -1,0 +1,13 @@
+# nudge configuration
+
+# Path to SQLite database (default: ~/.local/share/nudge/nudge.db on macOS, ~/.local/share/nudge/nudge.db on Linux)
+# database = "/path/to/nudge.db"
+
+# Path to whisper binary (default: "whisper" in PATH)
+# whisper_path = "/usr/local/bin/whisper"
+
+# Whisper model to use (default: base)
+# model = "base"
+
+# Language code (default: en)
+# language = "en"
